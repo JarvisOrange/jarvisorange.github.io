@@ -30,4 +30,5 @@ My research interests mainly focus on spatio-temporal data mining and urban comp
 - **Ph.D.:** *2022.09 - 2027.06 (expected)*, Beihang University, School of Computer Science and Engineering, Computer Applied Technology
 - **Bachelor:** *2018.09 - 2022.06*, Beihang University, Shenyuan Honors College, Computer Science
 
-
+# 📑 Publications
+- **Jiawei Cheng**, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao*, POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning, 39st AAAI Conference on Artificial Intelligence (*AAAI'2025*), *Oral Presentation* (4.6%)
