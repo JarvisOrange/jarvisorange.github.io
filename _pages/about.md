@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jarvis. I'm a direct Ph.D. student in School of Computer Science and Engineering, Beihang University.
+Hi! I am Jarvis. I'm a direct PhD student in School of Computer Science and Engineering, Beihang University.
 
 I have been working under the supervision of [Prof. Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/) at [BIGSCITY Lab](https://www.bigscity.com/) since 2021 fall. Now I am a Joint-PhD student in the Joint PhD Program offered by City University of Hong Kong(**CityU**) and Beihang University(**BUAA**).
 And I will go to CityU to continue my research under the advisory of [Dr. Xiangyu Zhao](https://zhaoxyai.github.io/) in 2024 fall.
 
-My research interests mainly focus on spatio-temporal data mining and urban computing.
+My research interests mainly focus on Combinging LLM with spatio-temporal data mining and Urban Computing.
 
 
 
 # 📖 Educations
-- **Ph.D.:** *2022.09 - 2027.06 (expected)*, Beihang University, School of Computer Science and Engineering, Computer Applied Technology
+- **Joint-PhD:** *2023.05 - 2027.06 (expected)*, City University of Hong Kong, Department of Data Science
+- **PhD:** *2022.09 - 2027.06 (expected)*, Beihang University, School of Computer Science and Engineering, Computer Applied Technology
 - **Bachelor:** *2018.09 - 2022.06*, Beihang University, Shenyuan Honors College, Computer Science
 
 # 📑 Publications
