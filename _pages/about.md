@@ -32,3 +32,8 @@ My research interests mainly focus on spatio-temporal data mining and urban comp
 
 # 📑 Publications
 - **Jiawei Cheng**, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao, POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning, 39st AAAI Conference on Artificial Intelligence (*AAAI'2025*), *Oral Presentation* (4.6%)
+
+- Honghao Shi, Qijian Tian, Jingyuan Wang, **Jiawei Cheng**, LibEpidemic: An Open-source Framework for Modeling Infectious Disease with Bigdata, Proceedings of the 31st ACM International Conference on Information & Knowledge Management(*CIKM '2022*)
+
+
+
