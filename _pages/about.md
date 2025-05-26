@@ -22,7 +22,7 @@ Hi! I am Jarvis. I'm a direct PhD student in School of Computer Science and Engi
 I have been working under the supervision of [Prof. Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/) at [BIGSCITY Lab](https://www.bigscity.com/) since 2021 fall. Now I am a Joint-PhD student in the Joint PhD Program offered by City University of Hong Kong(**CityU**) and Beihang University(**BUAA**).
 And I will go to CityU to continue my research under the advisory of [Dr. Xiangyu Zhao](https://zhaoxyai.github.io/) in 2024 fall.
 
-My research interests mainly focus on Combinging LLM with spatio-temporal data mining and Urban Computing.
+My research interests mainly focus on combining LLM with spatio-temporal data mining and Urban Computing.
 
 
 
