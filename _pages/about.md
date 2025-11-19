@@ -32,9 +32,12 @@ My research interests mainly focus on combining LLM with spatio-temporal data mi
 - **Bachelor:** *2018.09 - 2022.06*, Beihang University, Shenyuan Honors College, Computer Science
 
 # 📑 Publications
+- Dayan Pan, Jingyuan Wang, Yilong Zhou, **Jiawei Cheng**, Pengyue Jia, Xiangyu Zhao, RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, 40st AAAI Conference on Artificial Intelligence (*AAAI'2026*)
+
 - **Jiawei Cheng**, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao, POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning, 39st AAAI Conference on Artificial Intelligence (*AAAI'2025*), *Oral Presentation* (4.6%)
 
 - Honghao Shi, Qijian Tian, Jingyuan Wang, **Jiawei Cheng**, LibEpidemic: An Open-source Framework for Modeling Infectious Disease with Bigdata, Proceedings of the 31st ACM International Conference on Information & Knowledge Management(*CIKM '2022*)
+
 
 
 
